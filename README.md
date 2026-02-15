@@ -47,7 +47,7 @@ setSize: Faz o desenho ocupar a tela toda.
 
 setClearColor: Garante que o fundo do 3D seja invisível (transparência total).
 
-appendChild: Pega o desenho e coloca dentro daquela "div" que criamos no HTML.
+appendChild: Pega o desenho e coloca dentro da div cotainer-3d.
 
 5. As Luzes
 
